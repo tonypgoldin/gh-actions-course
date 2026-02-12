@@ -1,6 +1,7 @@
 name: 02 - Workflow Events
 
-on: push
+on: 
+  push:
 
 jobs:
   echo: 
